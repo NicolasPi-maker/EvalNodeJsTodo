@@ -1,0 +1,1 @@
+### J'ai gitignore le fichier .env normalement ça devrait pas poser de problème si tu ajoutes tes propres variables d'environnement.
